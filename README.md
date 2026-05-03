@@ -1,97 +1,64 @@
-<h1 align="center">Hi 👋, I'm Tejas Naik</h1>
-<h3 align="center">AI Engineer | Healthcare AI | Agentic Systems</h3>
+# Hi 👋, I'm Tejas Naik
+**Data Engineer | Data Scientist | AI/ML Engineer**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Healthcare+AI+Builder;Agentic+AI+Developer;MLOps+%7C+LLMs+%7C+LangGraph&center=true&width=500&height=50">
-</p>
+MS Data Science @ CU Boulder · BE Electrical Engineering · 3 Years Professional Experience
 
 ---
 
 ## 💫 About Me
 
-🚀 **Currently working on**  
-- Building **SepsisSentinel** — real-time agentic AI for early sepsis detection (ICU)
+🔧 **Currently building**
+- **SepsisSentinel** — real-time agentic AI system for early sepsis detection in ICU settings using LangGraph, ClinicalBERT, and RAG over medical guidelines
 
-🤝 **Looking to collaborate on**  
-- Healthcare AI, Clinical NLP, Agentic LLM Systems  
-- RAG over medical guidelines + multi-agent orchestration  
-
-🎯 **Looking for help with**  
-- Referrals @ Tempus, Recursion, Google Health, Databricks, Anthropic  
-
-📚 **Currently learning**  
-- LangGraph multi-agent systems  
-- LoRA fine-tuning (ClinicalBERT)  
-- RAGAS evaluation + distributed training  
-
-💬 **Ask me about**  
-- Scaling pipelines (70M+ records/day)  
-- Snowflake DW + SCD Type 2  
-- End-to-end MLOps + AI systems  
-
-⚡ **Fun fact**  
-- From electrical circuits → AI systems detecting sepsis in real-time  
+📊 **What I've shipped**
+- Production data pipelines processing **70M+ records/day** (Azure Data Factory, Synapse, Microsoft Fabric)
+- Snowflake data warehouse with **SCD Type 2**, incremental loading, and 4-layer architecture
+- Power BI & Tableau dashboards used by **100+ stakeholders** across operations, finance, and technology
+- **MedBridge** — full-stack healthcare platform with LLM-powered intake processing (Groq API, Llama 4 Scout)
+- Serverless ETL pipeline on AWS (S3, Glue, Lambda, Kinesis, Athena, Redshift)
+- Deep learning models achieving **98% accuracy** on medical imaging classification
 
 ---
 
-## 🌐 Socials
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="mailto:tejasnaik137@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### ⚙️ Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Kafka](https://img.shields.io/badge/apache_kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/apache_spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+**Languages:** Python · SQL · R · JavaScript · PySpark  
+**Data Engineering:** Azure Data Factory · Synapse Analytics · Microsoft Fabric · Snowflake · AWS (S3, Glue, Lambda, Kinesis, Athena, Redshift) · ETL/ELT · Data Modeling  
+**AI/ML:** TensorFlow · Keras · Scikit-learn · Groq API · LangGraph · Transfer Learning · NLP  
+**Visualization:** Power BI · Tableau · Plotly · Matplotlib  
+**Full-Stack:** Next.js · React · Node.js · Twilio · Resend  
+**Tools:** Git · GitHub · Docker · CI/CD · Jira · Agile/Scrum  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejassnaikk&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejassnaikk&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassnaikk&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🚀 Highlight Project
-
-### 🏥 SepsisSentinel
-- Real-time ICU sepsis detection (6 hours early)
-- Multimodal ML: BiLSTM + XGBoost + ClinicalBERT
-- Agentic AI using LangGraph + clinical guidelines
-- Stack: Kafka → Spark → Delta Lake → MLflow → FastAPI → AWS ECS
+| Project | Stack | What It Does |
+|---|---|---|
+| **SepsisSentinel** | LangGraph, ClinicalBERT, RAG, MIMIC-III | Real-time agentic AI for early sepsis detection in ICU |
+| **MedBridge** | Next.js, React, Node.js, Groq API (Llama 4 Scout), Twilio | Healthcare platform connecting medications with patients via LLM-powered processing |
+| **YouTube Trending Pipeline** | Python, PySpark, AWS S3, Glue, Lambda, Kinesis, Athena | End-to-end serverless ETL with automated quality checks and BI dashboards |
+| **COVID-19 Detection** | Python, TensorFlow, Keras, Transfer Learning | 98% accuracy across MobileNetV2, ResNet101V2, DenseNet201 on chest X-rays |
+| **Used Car Pricing** | Python, Pandas, Scikit-learn, Random Forest | Predictive pricing model with R²=0.70 |
 
 ---
 
-⭐️ From [tejassnaikk](https://github.com/tejassnaikk)
+## 🤝 Open to Collaborate On
+- Data Engineering (pipelines, warehouses, cloud architecture)
+- Healthcare AI & Clinical NLP
+- Agentic LLM Systems & RAG
+- Data Science & ML (predictive models, classification, NLP)
+
+## 📚 Currently Learning
+- LangGraph multi-agent orchestration
+- LoRA fine-tuning (ClinicalBERT)
+- RAGAS evaluation & distributed training
+- Advanced Snowflake & dbt
+
+## 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-naik-22933019b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tejasnaik137@gmail.com)
+
+---
+
+⚡ **Fun fact:** From electrical circuits → data pipelines processing 70M+ records/day → AI systems detecting sepsis in real-time
